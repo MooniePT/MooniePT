@@ -32,7 +32,7 @@ I'm looking for **remote roles in IT support, software implementation or junior 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,flask,c,cpp,mysql,sqlite,html,css,bootstrap,git,github,docker,maven,vscode,windows,linux&perline=17" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,flask,ts,react,nodejs,mongodb,c,cpp,mysql,sqlite,html,css,bootstrap,git,github,docker,maven,vscode,windows,linux&perline=17" alt="Tech stack icons" />
 </p>
 
 <p align="left">
@@ -53,6 +53,7 @@ I'm looking for **remote roles in IT support, software implementation or junior 
 | [Repair Service Manager](https://github.com/MooniePT/repair-service-manager) | Web app I built and run in production to manage IT repair jobs, clients and parts orders, with dashboards, Docker deployment and Cloudflare zero-trust access. The prototype that inspired Ruvylo. | Python, Flask, SQLite, Docker |
 | [A Minha Dieta](https://github.com/MooniePT/AminhaDieta) | Desktop app for tracking diet, hydration and exercise, with charts, PDF reports and an MVC architecture. Team project, UBI. | Java, JavaFX, Maven |
 | [NEO Monitor](https://github.com/MooniePT/NEO_Monitor_BD_Project) | SQL Server database and Python GUI for monitoring near-Earth asteroids, with ~966k real orbital records and ESA risk lists. Team project, UBI. | Python, T-SQL, Tkinter |
+| [Pedidos de Produto](https://github.com/MooniePT/pedidos-de-produto) | Feature request and product roadmap management system: request triage, prioritisation, sprints, roadmap, metrics and private workspaces for four user roles, with CI on GitHub Actions. Team project (Scrum), Software Engineering, UBI. | TypeScript, React, Node.js, MongoDB |
 | [OnMemory Website](https://github.com/MooniePT/ProjetoOnMemory) ([live](https://mooniept.github.io/ProjetoOnMemory/)) | Responsive website for a computer repair and IT support company. Training project. | HTML, CSS, Bootstrap |
 | [Ruvylo](https://ruvylo.com) | SaaS platform for technical-assistance businesses (founder). | SaaS |
 
